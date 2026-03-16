@@ -1,7 +1,6 @@
 streamlit
-scikit-learn
 pandas
 numpy
-joblib
+scikit-learn
 openpyxl
 pyspark
